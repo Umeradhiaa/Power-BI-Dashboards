@@ -1,58 +1,130 @@
-# 📊 Super Store Sales Dashboard – Power BI Project
 
-![Dashboard Preview](./Super%20Store%20Dashboard.pdf)
+# 📊 Power BI Dashboard Projects – Portfolio by Umer Farooq
 
-## 🔍 Project Overview
-
-This project is an interactive **Sales Analysis Dashboard** built in **Power BI** using real-world Super Store data. The goal is to extract actionable insights from sales data by applying advanced **data analysis techniques**, including **time series analysis**, **forecasting**, and **data modeling**.
+Welcome to my collection of **Power BI dashboards**, created to demonstrate my skills in **Business Intelligence**, **Data Analysis**, and **Data Visualization** using real-world datasets. These projects were built through self-learning, leveraging platforms like YouTube, and applying core BI techniques including DAX, data cleaning, time series analysis, and interactive dashboard development.
 
 ---
 
-## 🛠️ Tools & Technologies Used
-
-- **Power BI Desktop**
-- **DAX (Data Analysis Expressions)**
-- **Power Query Editor**
-- **YouTube Learning Resources**
-- **Microsoft Excel (for preprocessing)**
+## 🚀 Dashboards Included
 
 ---
 
-## 📈 Features & Highlights
+### 1️⃣ Manufacturing Analysis Dashboard
 
-### 🔧 Data Preparation
-- Cleaned and transformed raw Super Store sales data
-- Removed duplicates and handled null values
-- Created calculated columns and measures using **DAX**
-- Built relationships between tables for a relational data model
+**Objective:**  
+Analyze international sales data to evaluate manufacturer and product performance across countries.
 
-### 📊 Dashboard Insights
-- **Overall Sales KPIs** (Total Sales, Profit, Orders, Quantity)
-- **Time Series Analysis** for monthly sales and profit trends
-- **Sales Forecasting** using historical data patterns
-- **Segment and Category-wise Breakdown** of performance
-- **Top Performing Products and Customers**
-- **Region-wise Revenue & Profitability Map**
-- Interactive visuals with slicers and filters for deep exploration
+**Key Features:**
+- Cleaned raw international sales data (handled duplicates, filled nulls).
+- Built data relationships and logical models using **DAX queries**.
+- Designed insightful visuals including:
+  - Revenue by manufacturer and product category.
+  - Country-wise sales distribution.
+  - Performance comparison charts.
+
+**Skills Used:**
+- Data Cleaning
+- DAX Measures
+- KPI Indicators
+- Chart Customization
+
+📁 **File Included:** `complete dashboard.png`
 
 ---
 
-## 🎯 Objectives Achieved
+### 2️⃣ HR Analytics Dashboard
 
-- Gained hands-on experience in **Power BI dashboard development**
-- Applied **forecasting and trend analysis** to business data
-- Designed a user-friendly, professional dashboard layout
-- Demonstrated capability in self-directed learning via YouTube
+**Objective:**  
+Visualize HR-related data to uncover trends in employee performance, department distribution, and HR KPIs.
 
+**Key Features:**
+- Self-taught dashboard design using **YouTube tutorials**.
+- Created new calculated columns using **DAX**.
+- Applied data transformations and relational modeling.
+- Showed:
+  - Department-wise employee count
+  - Performance metrics
+  - Gender & age diversity
+  - Attrition rate
+
+**Skills Used:**
+- DAX Columns and Measures
+- Interactive Filtering
+- Visual Relationships
+- HR-Specific Metrics
+
+📁 **File Included:** `Hr analytics.pdf`
+
+---
+
+### 3️⃣ Super Store Sales Dashboard
+
+**Objective:**  
+Deliver insights and forecasts from Super Store sales data using time series analysis and advanced BI techniques.
+
+**Key Features:**
+- Applied **time series analysis** for monthly/yearly trends.
+- Built **forecasting visuals** for future sales estimation.
+- Created custom calculated columns and table relationships.
+- Cleaned and structured the dataset for advanced analysis.
+- Dashboard includes:
+  - Region-wise profitability
+  - Segment/category analysis
+  - Top customers & products
+  - Dynamic KPIs
+
+**Skills Used:**
+- Time Series Forecasting
+- Advanced DAX
+- Data Cleaning & Modeling
+- Interactive Charting
+
+📁 **File Included:** `Super Store Dashboard.pdf`
+
+---
+
+## 🧠 Core Skills Demonstrated
+
+- Power BI Dashboard Design
+- DAX (Data Analysis Expressions)
+- Data Cleaning & Preprocessing
+- Time Series & Forecasting
+- Business Metrics & KPI Visualization
+- Self-Learning via Online Resources
+
+---
+
+## 📁 Repository Structure
+
+```
+📦 powerbi-dashboard-portfolio
+ ┣ 📄 README.md
+ ┣ 📄 complete dashboard.png
+ ┣ 📄 Hr analytics.pdf
+ ┣ 📄 Super Store Dashboard.pdf
+```
+
+> 📌 Note: `.pbix` source files are not included due to size, but can be shared upon request.
+
+---
+
+## 👨‍💻 About Me
+
+I’m **Umer Farooq**, a self-driven learner pursuing a career in **Data Science** and **Business Intelligence**. I created these dashboards to apply my learning and showcase real-world applications of data visualization and analysis.
+
+---
 
 ## 🔗 Connect With Me
 
-- 💼 [[LinkedIn]((https://www.linkedin.com/in/umer-farooq-adhia/))]
-- 📧 Email: umerfarooq.adhia@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/umer-farooq-adhia/)
+- Email: umerfarooq.adhia@gmail.com
 
 ---
 
 ## 📌 Disclaimer
 
-This project is for educational and portfolio purposes only. The data used is publicly available and does not represent real company performance.
+These projects are built for educational and portfolio purposes. All datasets used are publicly available or synthetic data.
 
+---
+
+⭐ If you found this project helpful, feel free to **star** the repo or **connect** with me!
